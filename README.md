@@ -1,4 +1,4 @@
-# Hi, I'm Morgan 👋
+# Hi, I'm Morgan 🙋🏽‍♀️
 
 Front-End & WordPress Developer based in Brooklyn, NY.
 I build custom WordPress themes, React apps, and React Native tools —
@@ -9,7 +9,7 @@ with an AI-augmented workflow and a background in film & TV art departments.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 👩🏽‍💻
 
 **WordPress:** Custom themes (FSE + classic), ACF, custom post types, PHP  
 **Frontend:** React, React Native (Expo), JavaScript, HTML/CSS, SCSS  
